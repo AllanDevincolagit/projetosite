@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+  color:white;
+}
+
+.top img{
+  height: 100px;
+  width: 200px;
+}
+
+.caixa1{
+  display:inline-block;
+  margin: solid 2px blue;
+}
+
+.caixa1 img{
+  display:flex;
+  align-items:center;
+  width:400px;
+  height:300px;
+}
+
+.caixa2{
+  display:inline-block;
+  text-align: center;
+}
